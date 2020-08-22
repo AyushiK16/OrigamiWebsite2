@@ -1,0 +1,28 @@
+.everything{
+    background: hsla(265, 53%, 29%, 1);
+
+
+}
+
+h1.name{
+    color:white;
+}
+
+.header{
+    background-color: aqua;
+    background: #432371;
+    color:white;
+}
+.many{
+    background-color: #754272;
+    justify-content: center;
+    justify-content: space-around;
+    display:flex;
+    text-align: center;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:oldlace;
+}
